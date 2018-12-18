@@ -337,4 +337,6 @@ ASALocalRun/
 # Local History for Visual Studio
 .localhistory/
 
-appsettings.Development.json
+**/appsettings.Development.json
+**/appsettings.staging.json
+**/appsettings.production.json
